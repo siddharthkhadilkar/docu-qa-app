@@ -1,8 +1,0 @@
-streamlit
-langchain
-langgraph
-faiss-cpu
-sentence-transformers
-pypdf
-pandas
-ollama
